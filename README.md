@@ -4,12 +4,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/Mastertharun.svg?style=social&label=Follow)](https://github.com/Mastertharun)
 [![GitHub stars](https://img.shields.io/github/stars/Mastertharun?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/Mastertharun?tab=stars)
 
-I'm a passionate Software Engineer based in INDIA. Here you'll find a bit about me, my projects, and interests. Feel free to connect with me!
+I'm a passionate Software Engineer and Data Analyst based in INDIA. Here you'll find a bit about me, my projects, and interests. Feel free to connect with me!
 
 ## About Me
 
 - 🔭 I'm currently working on Web Applications and Android 
-- 🌱 I'm learning Block Chain
+- 🌱 I'm learning AI
 - 💬 Ask me about my Work
 - 😄 Pronouns: He
 
